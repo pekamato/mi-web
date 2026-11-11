@@ -1,2 +1,5 @@
-# mi-web
-Mi primera pagina web creada con HTML Y CSS
+# Mi primera página web
+
+Página hecha mientras aprendo HTML y CSS con el curso de SoyDalto.
+
+Web publicada: https://pekamato.github.io/mi-web/

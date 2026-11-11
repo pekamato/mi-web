@@ -1,0 +1,50 @@
+body {
+    background-color:#b4caed;
+    text-align:center;
+    font-family: 'Montserrat';
+}
+
+
+h1 {
+    font-family: 'Bryndan Write';
+    color:#000000;
+}
+
+
+h2 {
+    font-family: 'Bryndan Write';
+    color:#000000;
+}
+
+.imagen_gato {
+    width:200px;
+    height:200px;
+    border-radius:10px;
+}
+
+@font-face {
+    font-family: 'Bryndan Write';
+    src: url('BryndanWriteBook-nGPM.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.ttf');
+}
+
+a:hover {
+    color:red;
+    text-decoration:underline;
+}
+
+a {
+    text-decoration:none;
+    color: #1a3a7a;
+    margin: 0 12px;
+}
+
+ul {
+    align-items: center;
+    list-style-position: inside;
+    list-style: none;
+}
